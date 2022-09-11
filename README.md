@@ -1,4 +1,6 @@
-# Edible-Cafe
+# Edible-Gold-Cafe
+It works on localhost with Apache and MySQL on Xampp server.
+
 ![image](https://user-images.githubusercontent.com/68183562/189531806-cff09897-f72d-4ee8-9aa7-baaa87e1fa37.png)
 ![image](https://user-images.githubusercontent.com/68183562/189531829-e82bada1-5ebf-4f51-9a9d-eaec1dcc7836.png)
 ![image](https://user-images.githubusercontent.com/68183562/189531836-c11b2b34-dbac-4be4-aea9-b730e58999d9.png)
